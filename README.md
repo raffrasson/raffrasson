@@ -17,4 +17,4 @@ Sinta-se à vontade para entrar em contato comigo para qualquer coisa! Gosto de 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelfrasson/)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/r.frasson/)
 
-Ah, econfira meus projetos pinados abaixo. Obrigado!
+Ah, e confira meus projetos pinados abaixo. Obrigado!
